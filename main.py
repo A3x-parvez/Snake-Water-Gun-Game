@@ -1,7 +1,7 @@
 #Snake ,water, gun game.. 
 import random
 
-rnd=int(input("Enter how many round you want : "))
+rnd=int(input("Enter how many round you want to play: "))
 
 mydict={
          "s" : 1 ,
