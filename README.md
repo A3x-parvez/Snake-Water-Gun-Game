@@ -27,7 +27,7 @@ A simple text-based implementation of the classic Snake-Water-Gun (similar to Ro
 
 2 . Run the program into your terminal:
     ```bash
-    python main.py
+     python main.py
 
 
 
