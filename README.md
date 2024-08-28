@@ -24,3 +24,50 @@ A simple text-based implementation of the classic Snake-Water-Gun (similar to Ro
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/A3x-parvez/snake-water-gun-game.git
+
+2 . Run the program into your terminal:
+   ```bash
+   python main.py
+
+
+
+## Example 💡 ##
+
+```bash
+
+Enter how many rounds you want to play: 3
+
+Round 1 Start.
+
+Enter s (Snake), w (Water), or g (Gun): s
+You chose Snake
+Computer chose Gun
+You Lose!
+
+Round 1 Complete.
+
+
+Round 2 Start.
+
+Enter s (Snake), w (Water), or g (Gun): w
+You chose Water
+Computer chose Snake
+You Lose!
+
+Round 2 Complete.
+
+
+Round 3 Start.
+
+Enter s (Snake), w (Water), or g (Gun): g
+You chose Gun
+Computer chose Water
+You Win!
+
+Round 3 Complete.
+
+Game Over!
+Final Scores:
+Your score = 1
+Computer score = 2
+The computer won the game! Better luck next time.
