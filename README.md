@@ -26,15 +26,14 @@ A simple text-based implementation of the classic Snake-Water-Gun (similar to Ro
    git clone https://github.com/A3x-parvez/snake-water-gun-game.git
 
 2 . Run the program into your terminal:
-   ```bash
-   python main.py
+    ```bash
+    python main.py
 
 
 
 ## Example 💡 ##
 
 ```bash
-
 Enter how many rounds you want to play: 3
 
 Round 1 Start.
