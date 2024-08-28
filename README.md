@@ -25,8 +25,9 @@ A simple text-based implementation of the classic Snake-Water-Gun (similar to Ro
    ```bash
    git clone https://github.com/A3x-parvez/snake-water-gun-game.git
 
-2 . Run the program into your terminal:
-    ```bash python main.py
+1. Run the program into your local machine:
+   ```bash
+   python main.py
 
 
 
