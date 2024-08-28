@@ -29,8 +29,6 @@ A simple text-based implementation of the classic Snake-Water-Gun (similar to Ro
    ```bash
    python main.py
 
-
-
 ## Example 💡 ##
 
 ```bash
